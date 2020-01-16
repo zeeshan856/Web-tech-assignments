@@ -1,0 +1,53 @@
+body
+{
+    background-color: black;
+    color: GOLD;
+    font-family: sans-serif;
+}
+.header
+{
+    border: 1px solid gold;
+    height: 150px;
+    box-shadow: 5px 10px 0px 1px gold;
+}
+.header img
+{
+    width: 100%;
+    margin-top: -10px;
+}
+.column1
+{
+    float: left;
+    margin-top: 25px;
+    height: 250px;
+    width: 49.5%;
+    border: 1px solid gold;
+    box-shadow: 5px 10px 0px 1px gold;
+}
+.column1 a,h3
+{
+    margin-left: 5px;
+    padding: 2px;
+    color: gold;
+    text-decoration: none;
+}
+.column1 a:hover
+{
+    color: white;
+}
+.column2
+{
+    float: right;
+    margin-top: 25px;
+    height: 250px;
+    width: 49.5%;
+    border: 1px solid gold;
+    box-shadow: 5px 10px 0px 1px gold;
+}
+.footer
+{
+    border: 1px solid gold;
+    box-shadow: 5px 10px 0px 1px gold;
+    height: 150px;
+    margin-top: 300px;
+}
